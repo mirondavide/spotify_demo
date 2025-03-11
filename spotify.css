@@ -7,8 +7,6 @@ body {
     height: 100vh;
 }
 
-
-
 .principale{
     padding-top: 32px  0px 24px;
     height: 100vh;
@@ -93,8 +91,6 @@ input::placeholder{
     content: "";
     flex: 1;
     border-bottom: 1px solid rgba(188, 188, 188, 0.523); 
-  
-
 }
 
 .linea_con_testo span {
