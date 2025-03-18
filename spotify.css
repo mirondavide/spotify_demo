@@ -86,8 +86,7 @@ input::placeholder{
     margin-bottom: 20px;
 }
 
-.linea_con_testo::before,
-.linea_con_testo::after {
+.linea_con_testo::before, .linea_con_testo::after {
     content: "";
     flex: 1;
     border-bottom: 1px solid rgba(188, 188, 188, 0.523); 
